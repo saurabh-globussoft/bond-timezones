@@ -1,0 +1,12 @@
+{
+    "name": "bond/timezones",
+    "description": "to get date and time based on diff timezones",
+    "type": "library",
+    "authors": [
+        {
+            "name": "saurabh kumar",
+            "email": "saurabh.kumar@globussoft.in"
+        }
+    ],
+    "require": {}
+}
